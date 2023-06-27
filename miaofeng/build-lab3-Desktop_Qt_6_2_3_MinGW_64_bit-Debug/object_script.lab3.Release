@@ -1,0 +1,12 @@
+release/algorithm.o
+release/class.o
+release/flashdata.o
+release/main.o
+release/mycontrols.o
+release/mywindow.o
+release/recommendwindow.o
+release/searchwindow.o
+release/moc_mycontrols.o
+release/moc_mywindow.o
+release/moc_recommendwindow.o
+release/moc_searchwindow.o

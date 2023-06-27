@@ -1,0 +1,12 @@
+debug/algorithm.o
+debug/class.o
+debug/flashdata.o
+debug/main.o
+debug/mycontrols.o
+debug/mywindow.o
+debug/recommendwindow.o
+debug/searchwindow.o
+debug/moc_mycontrols.o
+debug/moc_mywindow.o
+debug/moc_recommendwindow.o
+debug/moc_searchwindow.o
